@@ -17,6 +17,8 @@ This work was funded by the European Union's H2020 Marie Skłodowska-Curie Actio
 | H2020 Marie Skłodowska-Curie Actions | 101119358 |
 | H2020 Marie Skłodowska-Curie Actions | HORIZONMSCA-2022-DN-01 |
 
+This result is part of the author's PhD work within the PROSAFE Doctoral Network — [prosafe.dtu.dk/fellows/dc-6](https://prosafe.dtu.dk/fellows/dc-6).
+
 ## Structure
 
 ```
