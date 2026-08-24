@@ -1,6 +1,8 @@
 # UTOPYA
 This repository contains the initial implementation of the algorithms associated with the preprint “UTOPYA: A Multimodal Deep Learning Framework for Physics-Informed Anomaly Detection and Time-Series Prediction” (arXiv:2605.18188), available at [arxiv.org/abs/2605.18188](https://arxiv.org/abs/2605.18188).
 
+![UTOPYA architecture](img/Figure_01.jpg)
+
 ## Authors
 
 - Robson Wilson Silva Pessoa — [ORCID: 0000-0003-1603-1453](https://orcid.org/0000-0003-1603-1453) (Department of Chemical Engineering, Norwegian University of Science and Technology, Trondheim 793101, Norway)
