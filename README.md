@@ -126,11 +126,13 @@ code fork.
 
 ## Contact
 
-Robson Wilson Silva Pessoa
+Robson Wilson Silva Pessoa: 
 Department of Chemical Engineering, Faculty of Natural Sciences,
 Norwegian University of Science and Technology (NTNU), Trondheim, Norway.
 
 Supervisor: Dr. Idelfonso Bessa dos Reis Nogueira
+Department of Chemical Engineering, Faculty of Natural Sciences,
+Norwegian University of Science and Technology (NTNU), Trondheim, Norway.
 
 ## License
 
